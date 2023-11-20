@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+* {
+  font-size: 18px;
+}
+
+.power-button {
+  margin-top: 20px;
+  border: 1px solid black;
+  background: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+}
+
